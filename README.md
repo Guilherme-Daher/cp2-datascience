@@ -2,9 +2,9 @@
 Criação de uma ferramenta para gerar um relatório HTML com análise dos dados fornecido via DataFrame
 
 ## Equipe
-- Guilherme Daher
-- Gustavo Akio
-- Gabriel Freitas
+- Guilherme Daher RM98611
+- Gustavo Akio RM 550241
+- Gabriel Freitas RM550187
 
 ## Descrição
 Este projeto realiza uma análise exploratória dos dados de músicas do Spotify, utilizando o dataset `spotify_data.csv`. O objetivo é gerar um relatório HTML que fornece um resumo dos dados, estatísticas descritivas e visualizações gráficas.
